@@ -42,6 +42,13 @@ header {
     font-size: 32px;
     border-radius: 14px;
     padding: 20px 7px;
+    cursor:pointer;
+}
+
+.nav-item-btn:hover{
+background-color : none;
+    border:1px solid white;
+
 }
 
 
