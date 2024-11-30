@@ -47,7 +47,7 @@ header {
 
 .nav-item-btn:hover{
 background-color : none;
-    border:1px solid white;
+    border:2px solid white;
 
 }
 
@@ -162,6 +162,13 @@ background-color : none;
     border-radius: 14px;
     padding: 20px 7px;
     width: max-content;
+    cursor:pointer;
+}
+
+.herosection-btn:hover{
+    background-color:none;
+    border:2px solid white;
+    
 }
 
 
@@ -724,6 +731,7 @@ button {
     background-color: #169E00;
     color: white;
     border: none;
+    cursor:pointer;
     height: 36px;
     width: 151px;
     border-radius: 11px;
@@ -965,6 +973,13 @@ button {
     border-radius: 14px;
     padding: 20px 7px;
     width: max-content;
+    cursor:pointer;
+}
+
+.services-card-btn:hover{
+    backgrounf-color:none;
+    border:2px solid white;
+    
 }
 
 .servicescard2 {
@@ -1258,6 +1273,7 @@ button {
     line-height: 43px;
     font-weight: 700;
     margin-top: 50px;
+    cursor:pointer;
 }
 
 
